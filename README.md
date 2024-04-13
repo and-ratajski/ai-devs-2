@@ -1,4 +1,4 @@
-# Pandas for Data Science (Real Python) excercises
+# Coding asignments for AI Devs 2 course
 
 ## Set up conda environment
 
