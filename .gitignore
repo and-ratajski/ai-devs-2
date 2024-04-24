@@ -119,3 +119,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+# qdrant
+*/qdrant_storage/*
+!*/qdrant_storage/.gitkeep

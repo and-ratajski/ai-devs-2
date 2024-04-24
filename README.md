@@ -10,6 +10,8 @@ https://stackoverflow.com/a/58068850/16775898
 conda create --prefix ./ai-devs-2 numpy matplotlib pandas ipykernel openai requests python-dotenv
 ```
 
+Unfortunately, additionally you have to install `pip install qdrant_client` with pip
+
 ### Change environment prompt
 
 ```shell
